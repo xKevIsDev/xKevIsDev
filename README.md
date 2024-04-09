@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hey there! 👋 I'm Zennerd, a Self-Taught Full Stack Developer 🚀
 
-<!--
-**Zennerd404/Zennerd404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🖥️ Full Stack Developer with a passion for crafting clean and efficient code.
+- 💻 Fluent in JavaScript, HTML, CSS, Tailwind and React on the frontend.
+- 🛠️ Experienced with Node.js, Express, and MongoDB for backend development.
+- 🧰 Love tinkering with tools like VS Code and mastering the art of debugging.
+- 🎨 Also dabble in Solidity for blockchain development because why not?
 
-Here are some ideas to get you started:
+## Skills
+- 💡 JavaScript, HTML, CSS
+- ⚛️ React, Redux
+- 🚀 Node.js, Express
+- 🗄️ MongoDB, Mongoose
+- 🖥️ VS Code, Git, GitHub
+- 🎓 Solidity, Ethereum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Main Project](COMING SOON!): Building decentralized applications with Solidity.
+
+## Interests
+- 🌙 Like to stay up late at night coding and debugging mysterious bugs.
+- 🎮 Occasionally take breaks to crush some code or foes in video games.
+- ☕ Fueling my coding adventures with copious amounts of coffee.
+- 🎸 Listening to some classic 90's rap and pop rock blue music to pass the time.
+
+## Let's Connect!
+- 🐦 [Twitter](https://twitter.com/IAmZennerd)
+- ✉️ Email: zennerd404@gmail.com
+
+Always open to collaborating on some awesome projects together! 😊
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZennerd404&count_bg=%2332E9FF&title_bg=%23646464&icon=nintendogamecube.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
