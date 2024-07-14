@@ -16,7 +16,7 @@
 - 🎓 Solidity, Ethereum
 
 ## Projects
-- [Main Project](COMING SOON!): Building decentralized applications with Solidity.
+- [Main Project] METEORGAMES: A innovative online casino platform.
 
 ## Interests
 - 🌙 Like to stay up late at night coding and debugging mysterious bugs.
