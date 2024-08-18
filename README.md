@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Zennerd, a Self-Taught Full Stack Developer 🚀
+# Hey there! 👋 I'm Kevin, a Self-Taught Full Stack Developer 🚀
 
 ## About Me
 - 🖥️ Full Stack Developer with a passion for crafting clean and efficient code.
@@ -17,6 +17,7 @@
 
 ## Projects
 - [Main Project] METEORGAMES: A innovative online casino platform.
+-  GenUIAI: A AI powered UI generator featuring popular UI component libraries.
 
 ## Interests
 - 🌙 Like to stay up late at night coding and debugging mysterious bugs.
@@ -25,7 +26,7 @@
 - 🎸 Listening to some classic 90's rap and pop rock blue music to pass the time.
 
 ## Let's Connect!
-- 🐦 [Twitter](https://twitter.com/IAmZennerd)
+- 🐦 [Twitter](https://twitter.com/KevIsDev)
 - ✉️ Email: zennerd404@gmail.com
 
 Always open to collaborating on some awesome projects together! 😊
