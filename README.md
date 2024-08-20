@@ -2,14 +2,14 @@
 
 ## About Me
 - 🖥️ Full Stack Developer with a passion for crafting clean and efficient code.
-- 💻 Fluent in JavaScript, HTML, CSS, Tailwind and React on the frontend.
+- 💻 Fluent in JavaScript, HTML, CSS, Tailwind and React/NextJS on the frontend.
 - 🛠️ Experienced with Node.js, Express, and MongoDB for backend development.
 - 🧰 Love tinkering with tools like VS Code and mastering the art of debugging.
 - 🎨 Also dabble in Solidity for blockchain development because why not?
 
 ## Skills
 - 💡 JavaScript, HTML, CSS
-- ⚛️ React, Redux
+- ⚛️ React, Redux, NextJS
 - 🚀 Node.js, Express
 - 🗄️ MongoDB, Mongoose
 - 🖥️ VS Code, Git, GitHub
