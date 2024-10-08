@@ -26,12 +26,12 @@
 - 🎸 Listening to some classic 90's rap and pop rock blue music to pass the time.
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xKevIsDev's Stats" />
-  
-  <div style="display: flex; width: 100%; margin-top: 20px;">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true" alt="xKevIsDev's Streak" />
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="xKevIsDev's Top Languages" />
-  </div>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xKevIsDev's Stats">
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true" alt="xKevIsDev's Streak">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="xKevIsDev's Top Languages">
 </div>
 
 ## Let's Connect!
