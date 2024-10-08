@@ -8,10 +8,10 @@
 - 🎨 Also dabble in Solidity for blockchain development because why not?
 
 ## Skills
-- 💡 JavaScript, HTML, CSS
-- ⚛️ React, Redux, NextJS
+- 💡 JavaScript, Typescript, HTML, CSS
+- ⚛️ React, Vite, NextJS
 - 🚀 Node.js, Express
-- 🗄️ MongoDB, Mongoose
+- 🗄️ MongoDB, Mongoose, Supabase
 - 🖥️ VS Code, Git, GitHub
 - 🎓 Solidity, Ethereum
 
@@ -24,6 +24,10 @@
 - 🎮 Occasionally take breaks to crush some code or foes in video games.
 - ☕ Fueling my coding adventures with copious amounts of coffee.
 - 🎸 Listening to some classic 90's rap and pop rock blue music to pass the time.
+
+![xKevIsDev's Stats](https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![xKevIsDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true)
+![xKevIsDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Let's Connect!
 - 🐦 [Twitter](https://twitter.com/KevIsDev)
