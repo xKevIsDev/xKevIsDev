@@ -28,9 +28,9 @@
 <div align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xKevIsDev's Stats" />
   
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true" alt="xKevIsDev's Streak" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="xKevIsDev's Top Languages" />
+  <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
+    <img width="49%" style="height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true" alt="xKevIsDev's Streak" />
+    <img width="49%" style="height: 200px; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="xKevIsDev's Top Languages" />
   </div>
 </div>
 
