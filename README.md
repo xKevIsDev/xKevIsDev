@@ -44,12 +44,6 @@ I'm a self-taught Full Stack Developer with a passion for crafting clean and eff
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&layout=compact&theme=tokyonight" alt="xKevIsDev's Top Languages" />
 </div>
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SpotifyKev&cover_image=true&theme=novatorem" alt="Spotify Now Playing" width="350" />
-</div>
-
 ## 🌐 Let's Connect
 
 <p align="center">
