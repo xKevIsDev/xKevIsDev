@@ -26,7 +26,7 @@
 - 🎸 Listening to some classic 90's rap and pop rock blue music to pass the time.
 
 <div align="center">
-  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xKevIsDev's Stats" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="xKevIsDev's Stats" />
   
   <div style="display: flex; justify-content: space-between; width: 100%; margin-top: 20px;">
     <img width="50%" style="height: 200px; object-fit: cover;" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=vue-dark&hide_border=true" alt="xKevIsDev's Streak" />
