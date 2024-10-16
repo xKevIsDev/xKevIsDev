@@ -63,3 +63,13 @@ I'm a self-taught Full Stack Developer with a passion for crafting clean and eff
 ---
 
 <p align="center">💡 Always open to collaborating on awesome projects! Let's build something amazing together. 🚀</p>
+
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <h2 style="color: #800080; font-family: 'Arial', sans-serif; margin-bottom: 15px;">☕️ Support My Work</h2>
+  <p style="color: #333; font-family: 'Arial', sans-serif; margin-bottom: 20px;">
+    If you find my projects helpful, consider buying me a coffee to keep the code brewing!
+  </p>
+  <a href="https://www.buymeacoffee.com/KevIsDev" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #800080; color: #ffffff; text-decoration: none; font-family: 'Arial', sans-serif; font-weight: bold; border-radius: 5px; transition: background-color 0.3s ease;">
+    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" alt="Buy Me A Coffee" style="height: 30px; width: auto; vertical-align: middle; margin-right: 10px;">
+  </a>
+</div>
