@@ -16,16 +16,10 @@
 
 I'm a self-taught Full Stack Developer with a passion for crafting clean and efficient code. My journey in tech has been driven by curiosity and a love for problem-solving. Here's a bit about what I do:
 
-- 💻 Frontend: JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind
+- 💻 Frontend: JavaScript, TypeScript, React, Next.js, Vite, Remix, HTML, CSS, Tailwind
 - 🛠️ Backend: Node.js, Express, MongoDB, Supabase
 - 🔧 Tools: VS Code, Git, GitHub
 - 🌐 Blockchain: Solidity, Ethereum
-
-## 🏆 Projects
-
-1. **METEORGAMES** - An innovative online casino platform
-
-2. **GenUIAI** - AI-powered UI generator featuring popular component libraries
 
 ## 🌟 Skills
 
