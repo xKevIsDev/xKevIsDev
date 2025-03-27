@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=KevIsDev&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Kevin;Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
@@ -6,9 +9,11 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff" alt="Vite" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" alt="Anthropic" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
 </p>
 
@@ -18,25 +23,14 @@ I'm a self-taught Full Stack Developer with a passion for crafting clean and eff
 
 - 💻 Frontend: JavaScript, TypeScript, React, Next.js, Vite, Remix, HTML, CSS, Tailwind
 - 🛠️ Backend: Node.js, Express, MongoDB, Supabase
-- 🔧 Tools: VS Code, Git, GitHub
+- 🔧 Tools: VS Code, Git, GitHub, AWS, Azure, Ai
 - 🌐 Blockchain: Solidity, Ethereum
 
 ## 🌟 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,git,vscode,solidity&perline=6" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,remix,vite,nextjs,nodejs,html,express,mongodb,supabase,tailwind,git,vscode,solidity,github,aws&perline=20" alt="Skills" />
 </p>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xKevIsDev&show_icons=true&theme=tokyonight" alt="xKevIsDev's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xKevIsDev&theme=tokyonight" alt="xKevIsDev's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xKevIsDev&layout=compact&theme=tokyonight" alt="xKevIsDev's Top Languages" />
-</div>
 
 ## 🌐 Let's Connect
 
@@ -53,10 +47,6 @@ I'm a self-taught Full Stack Developer with a passion for crafting clean and eff
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-
----
-
-<p align="center">💡 Always open to collaborating on awesome projects! Let's build something amazing together. 🚀</p>
 
 <div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <h2 style="color: #800080; font-family: 'Arial', sans-serif; margin-bottom: 15px;">☕️ Support My Work</h2>
